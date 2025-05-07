@@ -29,7 +29,7 @@ A powerful financial stock screening application that allows users to create cus
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/financial-screener.git
+git clone https://github.com/garbhitsh/Financialbackend.git
 cd financial-screener
 ```
 
