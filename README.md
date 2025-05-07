@@ -10,6 +10,8 @@ A powerful financial stock screening application that allows users to create cus
 - 📈 **Historical Data**: Access historical price data for stocks
 - 👥 **Public/Private Screens**: Share your screens with other users or keep them private
 - 📱 **RESTful API**: Well-documented API for easy integration
+![alt text for screen readers]("https://github.com/GarbhitSh/Financialbackend/blob/main/dia.png").
+
 
 ## Tech Stack
 
