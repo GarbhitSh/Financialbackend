@@ -13,7 +13,7 @@ A powerful financial stock screening application that allows users to create cus
 
 
 
-![alt]("https://github.com/GarbhitSh/Financialbackend/blob/main/dia.png).
+![Alt text]([https://github.com/GarbhitSh/SuspiciousApprovalsDetector/blob/main/MMD.png](https://github.com/GarbhitSh/Financialbackend/blob/main/dia.png))
 
 
 ## Tech Stack
